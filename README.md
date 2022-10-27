@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/ibrahimkavlci" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimkavlci?logo=twitter&style=for-the-badge" alt="ibrahimkavlci" /></a> </p>
 
-- 💬 Ask me about **I'm a student at Istanbul Aydin University. I'm studying computer engineering.**
-
 - 📫 How to reach me **ibrahimkvlci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
