@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil Ibrahim Kavalci</h1>
-<h3 align="center">Fullstack developer from Turkey. Student at Istanbul Aydin University. Studying computer engineering.</h3>
+<h3 align="center">Student at Marmara University. Studying computer engineering.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimkvlci&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimkvlci" /> </p>
